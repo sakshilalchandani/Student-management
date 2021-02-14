@@ -1,0 +1,14 @@
+last edit made to prj.py - maine rno ko as string treat kia har jagah, lekin usko
+bata kon raha hai ki wo integer hai   ????????
+
+sms file - sab kuch krke dekh lia, , and , , wo isdigit waale loop ke andar jaa hi nai raha  hai !!!!
+
+01 sept 20
+errors---
+rno.isdigit() ke andar nai jaara control.
+only updating marks and name, not rno.
+
+
+
+changes--
+asave me, exception ke niche added individual rows delete.
